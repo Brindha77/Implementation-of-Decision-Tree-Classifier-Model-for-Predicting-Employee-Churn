@@ -57,6 +57,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ### Data info:
 ![6 2](https://github.com/Brindha77/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118889143/40bbf9f1-0b4b-4554-9398-67eb9f3e3a6c)
 
+
 ### Optimization of null values:
 ![6 3](https://github.com/Brindha77/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/118889143/130e597d-f5e9-42fa-96e7-5bcfb522f28a)
 
